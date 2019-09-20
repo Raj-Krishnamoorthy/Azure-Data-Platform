@@ -11,7 +11,7 @@ Screenshots attached.
 
 ![image](https://user-images.githubusercontent.com/49286341/64213588-651c9680-ce62-11e9-8487-0541b32446c3.png)
 
-![image](https://user-images.githubusercontent.com/49286341/64213597-69e14a80-ce62-11e9-8f9d-7791f6e24d66.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/49286341/64213603-6d74d180-ce62-11e9-805e-dd80a52c837b.png)
