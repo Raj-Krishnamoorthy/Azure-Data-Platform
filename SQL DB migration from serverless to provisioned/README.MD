@@ -30,8 +30,8 @@ Set-AzSqlDatabase -ResourceGroupName "servrless-resgp" -DatabaseName "sqldb01" -
 ![image](https://user-images.githubusercontent.com/49286341/64207389-609bb200-ce51-11e9-8401-81516361e86f.png)
 
 
-![image](https://user-images.githubusercontent.com/49286341/64207394-642f3900-ce51-11e9-83df-948499576e5a.png)
+![image](https://user-images.githubusercontent.com/49286341/65351900-1aa75380-db9e-11e9-836a-bd997738624d.png)
 
-After migrating from serverless to provisioned compute model
+after migration
 
-![image](https://user-images.githubusercontent.com/49286341/64207418-73ae8200-ce51-11e9-89e4-5eb6f6ae25f0.png)
+![image](https://user-images.githubusercontent.com/49286341/65351865-fc415800-db9d-11e9-8dab-ee048fb755e1.png)
